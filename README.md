@@ -1,2 +1,1 @@
-# maximum-flow-using-LP
-Solving maximum flow problem by applying linear programming
+# Seminarski iz Optimalnog upravljanja - Primjena LP za rješavanje problema maksimalnog protoka
